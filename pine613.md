@@ -17,4 +17,4 @@
 
 ## アカウント
 - Twitter: [@pine613](https://twitter.com/pine613)
-- GitHub : [@pine613](https://github.com/pine613)
+- GitHub : [@pine](https://github.com/pine)
